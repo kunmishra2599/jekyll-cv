@@ -39,17 +39,13 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Bioinformatics Intern
+    time: May 2020 - Jul 2021
+    company: Genome Institute of Singapore @ A*Star
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Conducted benchmarking, enabled speed improvements and worked on a novel scRNA-seq feature selection algorithm (CRAN: DUBStepR). Led analysis and demultiplexing of human fetal brain single-nuclei data, project funded by the Simons Foundation Autism Research Initiative. Analysis of Rheumatoid Arthritis Single-Cell RNA Sequencing data (Bachelor's Thesis)
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      R, Seurat, Demuxlet/Freemuxlet, AWS, Git
   
   - role: Researcher
     time: 2016-2020
@@ -62,7 +58,7 @@ experience:
       fugiat nulla pariatur.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
-      
+
 publications:
   - title: DUBStepR is a scalable correlation-based feature selection method for accurately clustering single-cell data
     link: "https://www.nature.com/articles/s41467-021-26085-2"
