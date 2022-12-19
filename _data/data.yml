@@ -4,9 +4,9 @@ fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: kunalmishra[at]duke.nus.edu
+  github: kunmishra2599
+  linkedin: kunal-mishra
   phone: 
   gitlab: 
   twitter: 
@@ -17,13 +17,13 @@ languages:
   - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Ph.D. in Computational Biology
+    time: Aug 2021 - Present
+    university: Duke-NUS Medical School, Singapore
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: B.Sc. (Hons) in Biological Sciences and Medicinal Chemistry
+    time: Aug 2017 - June 2021
+    university: Nanyang Technological University, Singapore
 
 skills:
   - category: Backend
