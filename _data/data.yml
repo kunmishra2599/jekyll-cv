@@ -12,9 +12,10 @@ contact:
   twitter: freeribosomes
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: R
+  - idiom: Python
+  - idiom: Javascript
+  - idiom: HTML5 & CSS3
 
 education:
   - degree: Ph.D. in Computational Biology
@@ -22,63 +23,51 @@ education:
     university: Duke-NUS Medical School, Singapore
 
   - degree: B.Sc. (Hons) in Biological Sciences & Med. Chem. 
-    time: Aug 2017 - June 2021
+    time: Aug 2017 - Jun 2021
     university: Nanyang Technological University, Singapore
 
 skills:
-  - category: Backend
+  - category: Development
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - Seurat, Demuxlet, Freemuxlet, ggplot, edgeR, limma,  Git, Bash, Firebase, NumPy, pandas, AWS Technologies, sklearn, Tensorflow, Keras, Matplotlib, Node.js, Vue.js, Bootstrap4
+
 
 # Profile
 profile: |
-  Hi, I'm Kunal! I'm a Computational Biology Ph.D. student under the joint supervision of Assoc. Prof. Jacques Behmoaras and Assoc. Prof Enrico Petretto. I have experience analysing both single-cell and bulk sequencing data. In the past, I've worked in the wet lab performing cell culture and molecular biology experiments. My research mainly focuses on unravelling the complex role of macrophages in the context of chronic kidney disease through cross-species integrative analyses and systems genetics approaches.
+  Hi, I'm Kunal! I'm a Computational Biology Ph.D. student under the joint supervision of Assoc. Prof. Jacques Behmoaras and Assoc. Prof Enrico Petretto. I have experience analysing both single-cell and bulk sequencing data. In the past, I've worked in the wet lab performing cell culture and molecular biology experiments. 
+  
+  My research mainly focuses on unravelling the complex role of macrophages in the context of chronic kidney disease through cross-species integrative analyses and systems genetics approaches.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Bioinformatics Intern
+    time: May 2020 - Jul 2021
+    company: Prabhakar lab, Genome Institute of Singapore @ A*Star
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Conducted benchmarking, enabled speed improvements and worked on a novel scRNA-seq feature selection algorithm (CRAN: DUBStepR). Led analysis and demultiplexing of human fetal brain single-nuclei data, project funded by the Simons Foundation Autism Research Initiative. Analysis of Rheumatoid Arthritis Single-Cell RNA Sequencing data (Bachelor's Thesis)
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      R, Seurat, Demuxlet, AWS, Git
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Research Intern
+    time: Jul 2019 - Jan 2020
+    company: Malleret Lab, National University of Singapore
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Maintenance of the zoonotic parasite Plasmodium knowlesi clinical isolate A1.H1 and Plasmodium falciparum 3D7 cell lines. Investigated the use of bioreactors for parasite culturing, optimised reactor parameters and prepared Standard Operating Procedure
+
+   - role: Research Intern
+    time: Aug 2018 - Jul 2019
+    company: Preiser Lab, Nanyang Technological University
+    details: |
+      Conducted medium-throughput drug screening using fluorescence-based assays on Plasmodium falciparum. Conducted ring-stage assays & determined IC50 to assess potency. Work presented at Australasian Conference of Undergraduate Research 2019, received best International Speaker award
+      
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - title: DUBStepR is a scalable correlation-based feature selection method for accurately clustering single-cell data
+    link: "https://www.nature.com/articles/s41467-021-26085-2"
+    authors: Bobby Ranjan, Wenjie Sun, Jinyu Park, Kunal Mishra, Ronald Xie, Fatemeh Alipour, Vipul Singhal, Florian Schmidt, Ignasius Joanito, Nirmala Arul Rayan, Michelle Gek Liang Lim, Shyam Prabhakar
+    conference: Nature Communications, 2021
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+
 
 projects:
   - title: Cool Project 
