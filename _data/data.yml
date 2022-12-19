@@ -65,20 +65,18 @@ publications:
     authors: Bobby Ranjan, Wenjie Sun, Jinyu Park, <u>Kunal Mishra</u>, Ronald Xie, Fatemeh Alipour, Vipul Singhal, Florian Schmidt, Ignasius Joanito, Nirmala Arul Rayan, Michelle Gek Liang Lim, Shyam Prabhakar
     conference: Nature Communications, 2021
 
+  - title: DUBStepR is a scalable correlation-based feature selection method for accurately clustering single-cell data
+    link: "https://www.nature.com/articles/s41467-021-26085-2"
+    authors: Bobby Ranjan, Wenjie Sun, Jinyu Park, <u>Kunal Mishra</u>, Ronald Xie, Fatemeh Alipour, Vipul Singhal, Florian Schmidt, Ignasius Joanito, Nirmala Arul Rayan, Michelle Gek Liang Lim, Shyam Prabhakar
+    conference: Nature Communications, 2021
+
 
 
 projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Poster presentation
+    link: ""
+    authors: <u>Kunal Mishra</u>, Antoni Olona, Harry Park, Ximena Terra, Enrico Petretto, Jacques Behmoaras
+    conference: Duke-NUS Cardiovascular and Metabolic Disorders Retreat '22
 
 # Volunteering
 volunteering:
