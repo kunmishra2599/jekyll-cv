@@ -8,8 +8,8 @@ contact:
   github: kunmishra2599
   linkedin: kunal-mishra
   phone: 
-  gitlab: 
-  twitter: 
+  orcid: ORCID
+  twitter: freeribosomes
 
 languages:
   - idiom: English
@@ -21,7 +21,7 @@ education:
     time: Aug 2021 - Present
     university: Duke-NUS Medical School, Singapore
 
-  - degree: B.Sc. (Hons) in Biological Sciences and Medicinal Chemistry
+  - degree: B.Sc. (Hons) in Biological Sciences & Med. Chem. 
     time: Aug 2017 - June 2021
     university: Nanyang Technological University, Singapore
 
@@ -41,11 +41,7 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Hi, I'm Kunal! I'm a Computational Biology Ph.D. student under the joint supervision of Assoc. Prof. Jacques Behmoaras and Assoc. Prof Enrico Petretto. I have experience analysing both single-cell and bulk sequencing data. In the past, I've worked in the wet lab performing cell culture and molecular biology experiments. My research mainly focuses on unravelling the complex role of macrophages in the context of chronic kidney disease through cross-species integrative analyses and systems genetics approaches.
 
 # Experience
 experience:
