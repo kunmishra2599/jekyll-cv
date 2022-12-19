@@ -7,15 +7,11 @@ contact:
   email: kunalmishra[at]duke.nus.edu
   github: kunmishra2599
   linkedin: kunal-mishra
-  phone: 
   orcid: ORCID
   twitter: freeribosomes
 
 languages:
-  - idiom: R
-  - idiom: Python
-  - idiom: Javascript
-  - idiom: HTML5 & CSS3
+  - idiom: R, Python, Javascript, HTML5 & CSS3
 
 education:
   - degree: Ph.D. in Computational Biology
@@ -35,7 +31,7 @@ skills:
 # Profile
 profile: |
   Hi, I'm Kunal! I'm a Computational Biology Ph.D. student under the joint supervision of Assoc. Prof. Jacques Behmoaras and Assoc. Prof Enrico Petretto. I have experience analysing both single-cell and bulk sequencing data. In the past, I've worked in the wet lab performing cell culture and molecular biology experiments. 
-  <br>My research mainly focuses on unravelling the complex role of macrophages in the context of chronic kidney disease through cross-species integrative analyses and systems genetics approaches.
+  <br> <br> My research mainly focuses on unravelling the complex role of macrophages in the context of chronic kidney disease through cross-species integrative analyses and systems genetics approaches.
 
 # Experience
 experience:
@@ -43,7 +39,7 @@ experience:
     time: May 2020 - Jul 2021
     company: Genome Institute of Singapore @ A*Star, Singapore
     details: |
-      Conducted benchmarking, enabled speed improvements and worked on a novel scRNA-seq feature selection algorithm (CRAN: DUBStepR). Led analysis and demultiplexing of human fetal brain single-nuclei data, project funded by the Simons Foundation Autism Research Initiative. Analysis of Rheumatoid Arthritis Single-Cell RNA Sequencing data (Bachelor's Thesis)
+      Conducted benchmarking, enabled speed improvements and worked on a novel scRNA-seq feature selection algorithm (CRAN: DUBStepR). Led analysis and demultiplexing of human fetal brain single-nuclei data, project funded by the Simons Foundation Autism Research Initiative. Analysis of Rheumatoid Arthritis Single-Cell RNA Sequencing data (Bachelor's Thesis). 
     technologies_used: | 
       R, Seurat, Demuxlet/Freemuxlet, AWS, Git
   
@@ -51,7 +47,7 @@ experience:
     time: Jul 2019 - Jan 2020
     company: National University of Singapore, Singapore
     details: |
-      Maintenance of the zoonotic parasite Plasmodium knowlesi clinical isolate A1.H1 and Plasmodium falciparum 3D7 cell lines. Investigated the use of bioreactors for parasite culturing, optimised reactor parameters and prepared Standard Operating Procedure
+      Maintenance of the zoonotic parasite Plasmodium knowlesi clinical isolate A1.H1 and Plasmodium falciparum 3D7 cell lines. Investigated the use of bioreactors for parasite culturing, optimised reactor parameters and prepared Standard Operating Procedure. 
     technologies_used: | 
       Cell culture techniques, data analysis
       
@@ -59,7 +55,7 @@ experience:
     time: Aug 2018 - Jul 2019
     company: Nanyang Technological University, Singapore
     details: |
-      Conducted medium-throughput drug screening using fluorescence-based assays on Plasmodium falciparum. Conducted ring-stage assays & determined IC50 to assess potency. Work presented at Australasian Conference of Undergraduate Research 2019, received best International Speaker award
+      Conducted medium-throughput drug screening using fluorescence-based assays on Plasmodium falciparum. Conducted ring-stage assays & determined IC50 to assess potency. Work presented at Australasian Conference of Undergraduate Research 2019, received best International Speaker award. 
     technologies_used: | 
       Cell culture techniques, cloning, bacterial work
 
