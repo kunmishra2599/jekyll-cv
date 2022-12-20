@@ -60,10 +60,10 @@ experience:
       Cell culture techniques, cloning, bacterial work
 
 publications:
-  - title: DUBStepR is a scalable correlation-based feature selection method for accurately clustering single-cell data
-    link: "https://www.nature.com/articles/s41467-021-26085-2"
-    authors: Bobby Ranjan, Wenjie Sun, Jinyu Park, <u>Kunal Mishra</u>, Ronald Xie, Fatemeh Alipour, Vipul Singhal, Florian Schmidt, Ignasius Joanito, Nirmala Arul Rayan, Michelle Gek Liang Lim, Shyam Prabhakar
-    conference: Nature Communications, 2021
+  - title: Systems level identification of a matrisome-associated macrophage polarization state in multi-organ fibrosis
+    link: ""
+    authors: Kevin Y. Huang, <u>Kunal Mishra</u>, Harry Park, Xie Yi, John F. Ouyang,  Enrico Petretto and Jacques Behmoaras
+    conference: In review, 2022
 
   - title: DUBStepR is a scalable correlation-based feature selection method for accurately clustering single-cell data
     link: "https://www.nature.com/articles/s41467-021-26085-2"
