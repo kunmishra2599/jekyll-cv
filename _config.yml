@@ -1,8 +1,7 @@
 title: Kunal Mishra | CV
 description:  Kunal's CV webpage
-baseurl: ''
 theme_skin: blue
-url: 'https://kunmishra2599.github.io'
+url: 'https://kunalmishra.me'
 sass:
   sass_dir: _sass
   style: compressed
