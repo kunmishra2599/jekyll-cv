@@ -23,14 +23,13 @@ education:
     university: Nanyang Technological University, Singapore
 
 skills:
-  - category: Development
+  - category: Expertise
     skill: 
-      - Seurat, Demuxlet, Freemuxlet, ggplot, edgeR, limma,  Git, Bash, Firebase, NumPy, pandas, AWS Technologies, sklearn, Tensorflow, Keras, Matplotlib, Node.js, Vue.js, Bootstrap4
-
-
+      - Bulk and Single cell sequencing, Genomic Analysis, Data Analysis, Statistics, Software Development 
+ 
 # Profile
 profile: |
-  Hi, I'm Kunal! I'm a Computational Biology Ph.D. student under the joint supervision of Assoc. Prof. Jacques Behmoaras and Assoc. Prof Enrico Petretto. I have experience analysing both single-cell and bulk sequencing data. In the past, I've worked in the wet lab performing cell culture and molecular biology experiments. 
+  Hi, I'm Kunal! I'm a Computational Biology Ph.D. student under the joint supervision of Assoc. Prof. Jacques Behmoaras and Assoc. Prof Enrico Petretto. I have experience working in both genomics and transcriptomics. In the past, I've worked in the wet lab performing cell culture and molecular biology experiments. 
   <br> <br> My research mainly focuses on unravelling the complex role of macrophages in the context of chronic kidney disease through cross-species integrative analyses and systems genetics approaches.
 
 # Experience
