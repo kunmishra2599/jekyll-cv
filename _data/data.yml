@@ -29,8 +29,8 @@ skills:
  
 # Profile
 profile: |
-  Hi, I'm Kunal! I'm a Computational Biology Ph.D. student under the joint supervision of Assoc. Prof. Jacques Behmoaras and Assoc. Prof Enrico Petretto. I have experience working in both genomics and transcriptomics. In the past, I've worked in the wet lab performing cell culture and molecular biology experiments. 
-  <br> <br> My research mainly focuses on unravelling the complex role of macrophages in the context of chronic kidney disease through cross-species integrative analyses and systems genetics approaches.
+  Hi, I'm Kunal! I'm a third year Computational Biology Ph.D. student under the joint supervision of Assoc. Prof. Jacques Behmoaras and Assoc. Prof Enrico Petretto. I have experience working in both genomics and transcriptomics. In the past, I've worked in the wet lab performing cell culture and molecular biology experiments. 
+  <br> <br> My research mainly focuses on unravelling the complex role of macrophages in the context of chronic kidney disease through cross-species integrative analyses and systems genetics approaches. In our lab, we use both genetic and experimental animal models, combined with human samples to study kidney diseases.
 
 # Experience
 experience:
@@ -60,14 +60,14 @@ experience:
 
 publications:
   - title: Systems level identification of a matrisome-associated macrophage polarization state in multi-organ fibrosis
-    link: "https://www.biorxiv.org/content/10.1101/2022.12.20.521178v1.full"
-    authors: Kevin Y. Huang, <u>Kunal Mishra</u>, Harry Park, Xie Yi, John F. Ouyang,  Enrico Petretto and Jacques Behmoaras
-    conference: In review, 2022
+    link: "https://doi.org/10.7554/eLife.85530"
+    authors: John F Ouyang, <u>Kunal Mishra</u>, Yi Xie, Harry Park, Kevin Y Huang, Enrico Petretto, and Jacques Behmoaras
+    conference: eLife, 2023 | DOI - 10.7554/eLife.85530
 
   - title: DUBStepR is a scalable correlation-based feature selection method for accurately clustering single-cell data
     link: "https://www.nature.com/articles/s41467-021-26085-2"
     authors: Bobby Ranjan, Wenjie Sun, Jinyu Park, <u>Kunal Mishra</u>, Ronald Xie, Fatemeh Alipour, Vipul Singhal, Florian Schmidt, Ignasius Joanito, Nirmala Arul Rayan, Michelle Gek Liang Lim, Shyam Prabhakar
-    conference: Nature Communications, 2021
+    conference: Nature Communications, 2021 | DOI - 10.1038/s41467-021-26085-2
 
 
 
