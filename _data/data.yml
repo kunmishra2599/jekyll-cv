@@ -25,7 +25,13 @@ education:
 skills:
   - category: Expertise
     skill: 
-      - Single Cell Transcriptomics, Spatial Transcriptomics, WGS Analysis, Genomics, Data Analysis, Statistics, Software Development 
+      - Single Cell Transcriptomics
+      - Spatial Transcriptomics 
+      - WGS Analysis 
+      - Genomics 
+      - Data Analysis 
+      - Statistics 
+      - Software Development 
  
 # Profile
 profile: |
