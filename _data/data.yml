@@ -25,7 +25,7 @@ education:
 skills:
   - category: Expertise
     skill: 
-      - Bulk and Single cell sequencing, Genomic Analysis, Data Analysis, Statistics, Software Development 
+      - Single Cell Transcriptomics, Spatial Transcriptomics, WGS Analysis, Genomics, Data Analysis, Statistics, Software Development 
  
 # Profile
 profile: |
@@ -72,9 +72,20 @@ publications:
 
 
 projects:
-  - title: Poster presentation
+  - title: Talk - Quantitative trait loci mapping of diabetic kidney disease phenotypes in an F2-cross population of Akita-Renin mice 
+    link: ""
+    conference: DYNAMO II (Diabetes Study in Nephropathy And other Microvascular Complications) Townhall '24
+
+  - title: Poster Presentation - Understanding the spatiotemporal activity and role of SPP1+ Profibrotic Macrophages in Kidney Disease 
+    link: ""
+    conference: Duke-NUS Student Symposium '23
+
+  - title: Talk - Systems-level identification of a Matrisome-associated macrophage (MAM) polarization state in multi-organ fibrosis 
+    link: ""
+    conference: Duke-NUS Cardiovascular and Metabolic Disorders Program Seminar '23
+
+  - title: Poster presentation - Investigating the role of macrophage activation during chronic kidney disease in rats and humans
     link: "https://drive.google.com/file/d/1iuQD26cKG1pfDJ6DhP5oGkQxOouYrtwd/view?usp=sharing"
-    authors: <u>Kunal Mishra</u>, Antoni Olona, Harry Park, Ximena Terra, Enrico Petretto, Jacques Behmoaras
     conference: Duke-NUS Cardiovascular and Metabolic Disorders Retreat '22
 
 # Volunteering

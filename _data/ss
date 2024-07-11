@@ -1,0 +1,42 @@
+date
+
+ref=/data/behmoaras/software/references/mm10/Mus_musculus.GRCm38.dna_sm.primary_assembly.fa
+refpath=/data/behmoaras/software/references/mm10/
+
+BAMPATH=/data/behmoaras/home/e0859925/F2/renin_tg/bam/
+PBSPATH=/data/behmoaras/home/e0859925/F2/renin_tg/markdup_pbs
+rm -rf $PBSPATH
+
+mkdir -p $PBSPATH
+
+
+queue=$1
+
+for bamFiles in $(ls -d $BAMPATH/*)
+do
+    bamName=$(basename "$bamFiles")
+    qsubBam=$PBSPATH/batch3-renintg-$bamName.pbs
+    rm -f $qsubBam
+    fileName=batch3-Markdup_sort_index_$bamName
+    echo "#PBS -q $queue" >> $qsubBam
+    echo "#PBS -l select=1:ncpus=8:mem=36gb" >> $qsubBam
+    echo "#PBS -l walltime=12:00:00" >> $qsubBam
+    echo "#PBS -N $bamName-markdup-sort-index" >> $qsubBam
+
+    echo "#PBS -keo" >> $qsubBam
+    echo "cd /data/behmoaras/home/e0859925/F2/" >> $qsubBam
+
+
+    echo "gatk MarkDuplicates --java-options \"-Xmx32G\" --ASSUME_SORT_ORDER \"queryname\" \\" >> $qsubBam
+    for bamFile in $bamFiles/*.bam
+    do  
+        echo "-I $bamFile \\" >> $qsubBam
+    done
+    echo "-O $bamFiles/sorted.dedup.$bamName.bam -M $bamFiles/metrics.$bamName.txt" >> $qsubBam
+    echo "samtools sort -@8 $bamFiles/sorted.dedup.$bamName.bam -o $bamFiles/resorted.dedup.$bamName.bam" >> $qsubBam
+    echo "samtools index $bamFiles/resorted.dedup.$bamName.bam" >> $qsubBam
+
+
+done
+echo "Created PBS Scripts"
+for file in $PBSPATH/*.pbs; do qsub $file; done
